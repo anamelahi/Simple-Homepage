@@ -12,8 +12,13 @@ body{
     margin-left: 300;
 }
 
+.darkmode{
+    margin-left: 700px;
+}
+
 .containerr{
     display: flex;
+
 }
 
 .head{
