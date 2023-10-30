@@ -83,5 +83,15 @@ h3{
 .check{
     display: flex;
     margin-top: 40px;
+    justify-content: space-between;
+}
+
+.checkimg{
+    display: flex;
+
+}
+
+.checklogo{
+    margin-bottom: 15px;
 }
 
