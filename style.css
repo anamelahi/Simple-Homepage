@@ -16,7 +16,7 @@ body{
     margin-left: 700px;
     border-radius: 25%;
     justify-content: center;
-    background-color: black;
+    /* background-color: black; */
 
 }
 
@@ -67,9 +67,17 @@ h3{
     border: none;
 }
 
+#getstartedbtn:hover{
+    background-color: #355ae0;
+}
+
 #livebtn{
     font-weight: 500;
     color:#2A4DD0;
+}
+
+#livebtn:hover{
+    color: #3c67ff;
 }
 
 .check{
