@@ -16,8 +16,20 @@ body{
     margin-left: 700px;
     border-radius: 25%;
     justify-content: center;
-    /* background-color: black; */
+    background-color: black;
+    margin-top: 5px;
+}
 
+.darkbtn{
+    border: none;
+    background-color: transparent;
+    border-radius: 50%;
+    width: 30px;
+    align-items: center;
+}
+
+.sun{
+    background-color: white;
 }
 
 .containerr{
